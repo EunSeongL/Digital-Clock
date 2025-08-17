@@ -30,14 +30,14 @@ Basys3 보드에서 동작하며, 각 모듈을 블록화하여 통합한 **Top 
 - 거리 측정 기능 구현  
 - Controller 블록 및 SR04 FSM 설계  
 - 시뮬레이션 및 타이밍 검증 완료  
-- 🎥 시연 영상  
+- [🎥 시연 영상](https://github.com/EunSeongL/Digital-Clock/blob/main/video/SR04.gif)  
 
 ### 4. 온습도 센서 (DHT11)
 - FPGA로 온도·습도 데이터 수집  
 - Data Path / Control Path 분리  
 - FSM 기반 Controller 설계  
 - 다양한 Timing 조건 검증  
-- 🎥 시연 영상  
+- [🎥 시연 영상](https://github.com/EunSeongL/Digital-Clock/blob/main/video/DHT11.gif)
 
 ### 5. UART 통신
 - 센서 및 시계 모듈의 데이터 송수신  
