@@ -8,7 +8,7 @@ Basys3 보드에서 동작하며, 각 모듈을 블록화하여 통합한 **Top 
 
 ## 🛠️ 개발 환경
 - **Board**: Xilinx Basys3  
-- **Tool**: Vivado (Synthesis & Simulation), Verdi  
+- **Tool**: Vivado (Synthesis & Simulation) 
 - **Language**: Verilog HDL  
 - **Sensors**:  
   - 초음파 센서 HC-SR04  
@@ -50,3 +50,4 @@ Basys3 보드에서 동작하며, 각 모듈을 블록화하여 통합한 **Top 
 - UART 기반 통합 시스템 동작 확인  
 - FPGA 보드에서 통합 시연 성공  
 - 🎥 통합 시연 영상  
+
